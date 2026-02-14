@@ -1,0 +1,10 @@
+class StudentInfo {
+    public static void main(String[] args) {
+
+        System.out.println("Name: ");
+        System.out.println("Course: ");
+        System.out.println("City: ");
+
+
+    }
+}
